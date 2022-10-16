@@ -1,0 +1,7 @@
+    # Matlab
+    *.mat
+    *.asv
+    *.fig
+    *.jpg
+    *.tif
+    *.bmp
