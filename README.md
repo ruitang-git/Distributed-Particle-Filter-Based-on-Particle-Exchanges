@@ -17,8 +17,8 @@ file holder: GPDPF+FADPF
 
 The pipline is described in the following paper which is still under review by the conference IEEE AeroConf 2023.
 
-@inproceedings{axcell,
-    title={Distributed Particle Filter Based on Particle Exchanges},
-    author={Rui Tang and Ellen Riemens and Raj Thilak Rajan},
-    year={2023},
-}
+        @inproceedings{axcell,
+            title={Distributed Particle Filter Based on Particle Exchanges},
+            author={Rui Tang and Ellen Riemens and Raj Thilak Rajan},
+            year={2023},
+        }
